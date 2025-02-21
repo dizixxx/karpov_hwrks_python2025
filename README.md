@@ -2,3 +2,5 @@
 smth about python course\
 
 i can write anth ....
+
+ну хз типа отделение.:w
